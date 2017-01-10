@@ -19,7 +19,10 @@
         <activity android:name=".imagePage" />
         <activity android:name=".gravelChoice" />
         <activity android:name=".borderChoice" />
-        <activity android:name=".repickImage"></activity>
+        <activity android:name=".repickImage" />
+        <activity android:name=".sampleRequest" />
+        <activity android:name=".contactUs" />
+        <activity android:name=".tutorialPageHome"></activity>
     </application>
 
 </manifest>
